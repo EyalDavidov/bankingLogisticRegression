@@ -1,6 +1,3 @@
-בהתבסס על קובץ ה־Notebook ששלחת, הנה טיוטת README מקצועית שמתאימה להעלאה ל-GitHub עבור פרויקט של רגרסיה לוגיסטית על בסיס דאטאסט של שיווק בנקאי:
-
----
 
 # 📊 Logistic Regression on Bank Marketing Dataset
 
@@ -83,5 +80,4 @@ pip install -r requirements.txt
 The logistic regression model achieved **X% accuracy** (update with actual result) and provided interpretable insights into the most influential features for predicting successful campaign outcomes.
 
 ---
-
 רוצה שאוסיף גם גרף תוצאה מסכם? או אולי תיאור בעברית נוסף לטובת קהל יעד מסוים?
