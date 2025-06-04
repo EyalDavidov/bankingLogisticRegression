@@ -77,7 +77,4 @@ pip install -r requirements.txt
 
 ## 📈 Results
 
-The logistic regression model achieved **X% accuracy** (update with actual result) and provided interpretable insights into the most influential features for predicting successful campaign outcomes.
-
----
-רוצה שאוסיף גם גרף תוצאה מסכם? או אולי תיאור בעברית נוסף לטובת קהל יעד מסוים?
+The logistic regression model achieved **93% accuracy** and provided interpretable insights into the most influential features for predicting successful campaign outcomes.
